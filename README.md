@@ -1,7 +1,7 @@
 # TypeScript Basics
-tsc abc.ts
-Note - js file get created
-node abc.js
+>tsc abc.ts
+>Note - js file get created
+>node abc.js
 
 # Cammands
 Do not generate .js file if there is a compilation error
